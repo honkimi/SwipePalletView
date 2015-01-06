@@ -11,8 +11,8 @@ mkdir library
 cp -r /path/to/swipepalletview library/
 ```
 
-in your settings.gradle, add `, ':library:bootroid'`  
-in your app's build.gradle `dependencies`, add `compile project(':library:bootroid')`
+in your settings.gradle, add `, ':library:swipepalletview'`  
+in your app's build.gradle `dependencies`, add `compile project(':library:swipepalletview')`
 
 
 ## Usage
