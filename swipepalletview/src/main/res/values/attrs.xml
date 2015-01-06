@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwipePalletView">
+        <attr name="widthScale" format="float" />
+        <attr name="horizontalDuration" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="SwipePalletVerticalView">
+        <attr name="heightScale" format="float" />
+        <attr name="verticalDuration" format="integer" />
+    </declare-styleable>
+</resources>
